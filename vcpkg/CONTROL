@@ -1,0 +1,4 @@
+Source: ros-dashing-examples-rclpy-minimal-publisher
+Version: 0.7.3
+Description: Examples of minimal publishers using rclpy.
+Build-Depends:
