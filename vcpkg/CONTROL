@@ -1,0 +1,4 @@
+Source: ros-dashing-examples-rclcpp-minimal-publisher
+Version: 0.7.3
+Description: Examples of minimal publisher nodes
+Build-Depends:
