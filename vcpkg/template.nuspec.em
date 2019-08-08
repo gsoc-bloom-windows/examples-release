@@ -1,17 +1,15 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>ros-dashing-examples-rclcpp-minimal-service</id>
-    <version>0.7.3</version>
-    <title>ros-dashing-examples-rclcpp-minimal-service</title>
-    <authors>Jacob Perron <jacob@openrobotics.org></authors>
+    <id>@(Package)</id>
+    <version>@(Version)</version>
+    <title>@(Package)</title>
+    <authors>@(Authors)</authors>
     <owners>OSRF</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>A minimal service server which adds two numbers</description>
-<dependencies>
-      <dependency id="ros-dashing-example-interfaces"/>
-      <dependency id="ros-dashing-rclcpp"/>
-      <dependency id="ros-dashing-ros-workspace"/>
+    <description>@(Description)</description>
+    <dependencies>
+@[for d in Depends]@(d)@[end for]
     </dependencies>
   </metadata>
   <files>
