@@ -1,4 +1,0 @@
-Source: ros-dashing-examples-rclcpp-minimal-action-client
-Version: 0.7.3
-Description: Minimal action client examples
-Build-Depends:
