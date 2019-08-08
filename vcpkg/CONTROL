@@ -1,4 +1,0 @@
-Source: ros-dashing-examples-rclcpp-minimal-action-server
-Version: 0.7.3
-Description: Minimal action server examples
-Build-Depends:
