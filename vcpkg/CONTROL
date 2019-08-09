@@ -1,0 +1,4 @@
+Source: ros-dashing-examples-rclpy-minimal-subscriber
+Version: 0.7.3
+Description: Examples of minimal subscribers using rclpy.
+Build-Depends:
