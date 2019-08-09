@@ -1,4 +1,0 @@
-Source: ros-dashing-examples-rclpy-minimal-action-server
-Version: 0.7.3
-Description: Examples of minimal action servers using rclpy.
-Build-Depends:
