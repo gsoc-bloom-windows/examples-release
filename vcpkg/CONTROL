@@ -1,4 +1,0 @@
-Source: ros-dashing-examples-rclpy-minimal-client
-Version: 0.7.3
-Description: Examples of minimal service clients using rclpy.
-Build-Depends:
